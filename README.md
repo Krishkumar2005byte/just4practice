@@ -1,2 +1,3 @@
 # just4practice
 this is my first git repository
+Author - Krish Kumar
